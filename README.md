@@ -51,7 +51,8 @@ I am a passionate educator and researcher in the field of **Software Engineering
 
 **Databases:**  
 - MySQL  
-- SQLite  
+- SQLite
+- MongoDB  
 
 **Others:**  
 - Git & GitHub  
@@ -67,18 +68,12 @@ I am a passionate educator and researcher in the field of **Software Engineering
 
 ---
 
-## 🔹 Publications & Research
-
-- Journal and conference papers on machine learning and predictive analytics  
-*(You may add links later)*
-
----
 
 ## 🔹 Contact Me
 
-📧 Email: your-email@example.com  
-💼 Google Scholar: (link)  
-🔗 LinkedIn: (link)
+📧 Email: shahrinislam.swe@diu.edu.bd 
+💼 Google Scholar: ([link](https://scholar.google.com/citations?user=1lxdCEMAAAAJ&hl=en))  
+🔗 LinkedIn: (https://www.linkedin.com/in/shahrin-islam-swe/)
 
 ---
 
