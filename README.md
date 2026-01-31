@@ -72,8 +72,8 @@ I am a passionate educator and researcher in the field of **Software Engineering
 ## 🔹 Contact Me
 
 📧 Email: shahrinislam.swe@diu.edu.bd 
-💼 Google Scholar: ([link](https://scholar.google.com/citations?user=1lxdCEMAAAAJ&hl=en))  
-🔗 LinkedIn: (https://www.linkedin.com/in/shahrin-islam-swe/)
+💼 Google Scholar: [link](https://scholar.google.com/citations?user=1lxdCEMAAAAJ&hl=en)
+🔗 LinkedIn: [link](https://www.linkedin.com/in/shahrin-islam-swe)
 
 ---
 
